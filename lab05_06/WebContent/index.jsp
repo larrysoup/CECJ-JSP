@@ -51,8 +51,8 @@
 			<c:set var="color" value="white" />
 		</c:forEach>
 	</table>
-	
-	<a href="TestServlet.do">請點擊</a>
+	<hr>
+	<a href="TestServlet.do">請點擊我!</a>
 
 </body>
 </html>
